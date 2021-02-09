@@ -1,0 +1,13 @@
+body {
+   background-color: rgba(255, 99, 71, 0.4);
+}
+
+h1 {
+  color: rgb(120, 120, 120);
+  margin-left: 20px;
+}
+#Gamingroom {
+  padding: 10px;
+  background: #FFF;
+  width: 150px;
+}
